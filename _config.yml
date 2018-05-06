@@ -2,9 +2,9 @@
 #
 
 # Site settings
-title: LYRKLY
+title: Lyrikly
 description: Connecting Artists and Venues worldwide
-owner: LYRKLY INC
+owner: Lyrikly INC
 first_published: 2018 # if migrating another site, the year of your first publish
 email: voklinc@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
