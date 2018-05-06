@@ -3,7 +3,7 @@
 
 # Site settings
 title: Lyrikly
-description: Connecting Artists and Venues worldwide
+description: Connecting Artists and Venues worldwide!
 owner: Lyrikly INC
 first_published: 2018 # if migrating another site, the year of your first publish
 email: voklinc@gmail.com
@@ -11,13 +11,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
+  #github: https://github.com/<username>
+  #linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
-  #instagram:
+  instagram: https://www.instagram.com/lyrikly/
   #youtube-square:
   #spotify:
   #stack-overflow:
